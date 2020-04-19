@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "787658995722",
+    "firebase_url": "https://newsapp-99fab.firebaseio.com",
+    "project_id": "newsapp-99fab",
+    "storage_bucket": "newsapp-99fab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787658995722:android:f53cebba3106f0ef2c87f3",
+        "android_client_info": {
+          "package_name": "com.eabesh.dailynewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787658995722-rvjduhkfobbpgkbmo90voacfc3g20rmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eabesh.dailynewsapp",
+            "certificate_hash": "5dd8c45fd8403f684be002eef818f82be02c77ca"
+          }
+        },
+        {
+          "client_id": "787658995722-fqm45f9kiouubkn4qv7qq3erhnnfad5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eabesh.dailynewsapp",
+            "certificate_hash": "567c2e247c422bbd9dc7618a8c147d7b507dd751"
+          }
+        },
+        {
+          "client_id": "787658995722-67jh6flls5ue0fl41mp04cslt00judpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBRvrnXjlN_v-RUpMZFhlyN9oy53ufcmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787658995722-67jh6flls5ue0fl41mp04cslt00judpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1780263275462931~5835492178"
+    }
+  ],
+  "configuration_version": "1"
+}
